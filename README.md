@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AncaGabi
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 
 
 <!---
